@@ -1,0 +1,16 @@
+/home/henry/csharp-study/Revisao/bin/Debug/net5.0/Revisao
+/home/henry/csharp-study/Revisao/bin/Debug/net5.0/Revisao.deps.json
+/home/henry/csharp-study/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.json
+/home/henry/csharp-study/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.dev.json
+/home/henry/csharp-study/Revisao/bin/Debug/net5.0/Revisao.dll
+/home/henry/csharp-study/Revisao/bin/Debug/net5.0/ref/Revisao.dll
+/home/henry/csharp-study/Revisao/bin/Debug/net5.0/Revisao.pdb
+/home/henry/csharp-study/Revisao/obj/Debug/net5.0/Revisao.csprojAssemblyReference.cache
+/home/henry/csharp-study/Revisao/obj/Debug/net5.0/Revisao.GeneratedMSBuildEditorConfig.editorconfig
+/home/henry/csharp-study/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfoInputs.cache
+/home/henry/csharp-study/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfo.cs
+/home/henry/csharp-study/Revisao/obj/Debug/net5.0/Revisao.csproj.CoreCompileInputs.cache
+/home/henry/csharp-study/Revisao/obj/Debug/net5.0/Revisao.dll
+/home/henry/csharp-study/Revisao/obj/Debug/net5.0/ref/Revisao.dll
+/home/henry/csharp-study/Revisao/obj/Debug/net5.0/Revisao.pdb
+/home/henry/csharp-study/Revisao/obj/Debug/net5.0/Revisao.genruntimeconfig.cache
